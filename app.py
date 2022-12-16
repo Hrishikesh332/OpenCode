@@ -6,7 +6,7 @@ def load_image(img):
     im=Image.open(img)
     return im
 size=20
-# st.title('CODE GENERATOR')
+
 st.markdown("<h1 style='text-align: center; color: white;'>OpenCode 💬</h1>", unsafe_allow_html=True)
 st.markdown("---")
 with st.sidebar:
@@ -39,23 +39,7 @@ def gen_auto_response(ques):
         )
     print(response)
     return response.choices[0].text
-'''
-def gen_auto_explainer(res):
-    #openai.api_key=st.secrets["api"]
-    openai.api_key="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"
-    response = openai.Completion.create(
-        model="code-cushman-001",
-        prompt=f""""Do Explain the {language} Solution
-                    Explain Solution: """,
-        temperature=0,
-        max_tokens=1114,
-        top_p=1,
-        frequency_penalty=0,
-        presence_penalty=0
-        )
-    print(response)
-    return response.choices[0].text
-'''
+
 if ques and button:
     with st.spinner("-------Generating Code------"):
         reply=gen_auto_response(ques)
@@ -64,13 +48,7 @@ if ques and button:
         button2=st.button("Explain Code")
         
 
-        ''''
-        #if button2:
-            #with st.spinner("-------Generating Explanation------"):
-        exp=gen_auto_explainer(reply)
-        st.code(exp)
-        '''
-        
+
 
 
 
