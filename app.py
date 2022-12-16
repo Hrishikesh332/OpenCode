@@ -31,7 +31,7 @@ button=st.button("Generate")
 
 
 def gen_auto_response(ques):
-    openai.api_key = "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"
+    openai.api_key=st.secrets["api"]
     response = openai.Completion.create(
         model="code-cushman-001",
         prompt=f""""Given a Python solution for the leetcode question below
