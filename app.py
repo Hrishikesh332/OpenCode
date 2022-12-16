@@ -10,6 +10,7 @@ size=20
 st.markdown("<h1 style='text-align: center; color: white;'>OpenCode 💬</h1>", unsafe_allow_html=True)
 st.markdown("---")
 with st.sidebar:
+    st.image("ai.jpeg")
     st.title("OpenCode")
     st.caption('''
     OpenCode aims to provide solution of any programming question according to the user needs. Opencode is developed for the students struggling while learning.
