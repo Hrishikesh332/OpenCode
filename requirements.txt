@@ -1,0 +1,8 @@
+streamlit
+pandas
+streamlit_option_menu
+streamlit_lottie
+qrcode
+
+
+
