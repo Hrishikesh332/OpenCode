@@ -1,18 +1,7 @@
-import os
 import openai
 import streamlit as st
-import numpy as np
-import io
-import qrcode
-import os
-import time
 from PIL import Image
-import pandas as pd
-from streamlit_lottie import st_lottie
-import json
-import requests
-from style1 import st_button, info_css
-info_css()
+
 def load_image(img):
     im=Image.open(img)
     return im
