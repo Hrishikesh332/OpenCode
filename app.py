@@ -18,7 +18,7 @@ with st.sidebar:
    
 
 platform=st.selectbox("Select the Platform of Question:", ("Leetcode", "CodeChef", "Hackerrank"))
-language=st.selectbox("Select the Language of Solution:", ("C++", "Python", "Java"))
+language=st.selectbox("Select the Language of Solution:", ("Python", "C++", "Java"))
 ques=st.text_area("Input the Question Here")
 button=st.button("Generate")
 
