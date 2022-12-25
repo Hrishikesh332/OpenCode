@@ -7,7 +7,7 @@ def load_image(img):
     return im
 size=20
 
-st.markdown("<h1 style='text-align: center; color: white;'>OpenCode 💬</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>OpenCode 💬</h1>", unsafe_allow_html=True)
 st.markdown("---")
 with st.sidebar:
     st.image("ai.jpeg")
