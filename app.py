@@ -15,7 +15,7 @@ with st.sidebar:
     st.caption('''
     OpenCode aims to provide solution of any programming question according to the user needs. Opencode is developed for the students struggling while learning.
     ''', unsafe_allow_html=False)
-    st.text("Made by Data Smashers Team ⭐")
+   
 
 platform=st.selectbox("Select the Platform of Question:", ("Leetcode", "CodeChef", "Hackerrank"))
 language=st.selectbox("Select the Language of Solution:", ("C++", "Python", "Java"))
