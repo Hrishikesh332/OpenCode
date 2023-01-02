@@ -1,7 +1,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/JayeshVP24/AICTE-Diary">
+  <a href="https://github.com/Hrishikesh332/OpenCode">
     <img src="src/ai.jpeg" alt="Logo" width="80" height="80">
   </a>
 
@@ -10,14 +10,14 @@
   <p align="center">
     OpenCode
     <br />
-    <a href="https://github.com/JayeshVP24/AICTE-Diary"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Hrishikesh332/OpenCode"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/JayeshVP24/AICTE-Diary">View Demo</a>
+    <a href="https://github.com/Hrishikesh332/OpenCode">View Demo</a>
     ·
-    <a href="https://github.com/JayeshVP24/AICTE-Diary/issues">Report Bug</a>
+    <a href="https://github.com/Hrishikesh332/OpenCode/issues">Report Bug</a>
     ·
-    <a href="https://github.com/JayeshVP24/AICTE-Diary/issues">Request Feature</a>
+    <a href="https://github.com/Hrishikesh332/OpenCode/issues">Request Feature</a>
   </p>
 </div>
 
@@ -36,5 +36,9 @@
 ------
 
 ## About
+
+Welcome to OpenCode! Are you tired of struggling to write code on your own? Do you wish you had a magical solution to all your programming problems? Well, look no further because OpenCode is here to help! With OpenCode, we can generate code for you in a variety of programming languages. Whether you're a seasoned developer or just starting out, OpenCode is the perfect place to get the help you need. 
+
+So why wait? Start using OpenCode today and watch your coding skills soar to new heights!
 
 
