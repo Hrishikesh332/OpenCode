@@ -27,9 +27,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#About">About</a></li>
-    <li><a href="#Features">Features</a></li>
-    <li><a href="#Languages-and-Tools">Languages and Tools</a></li>
-    <li><a href="#Instructions-on-running-project-locally">Instructions on running project locally</a></li>
+
   </ol>
 </details>
 
