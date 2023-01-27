@@ -52,7 +52,9 @@ So why wait? Start using OpenCode today and watch your coding skills soar to new
 ## Features
 
 👨‍💻 Helps to generate a code as per the question provided.
+
 🌐 Supported for the portal like Leetcode, CodeChef and Hackeerank very well.
+
 🤝 Helpful for the students while coding.
 
 
